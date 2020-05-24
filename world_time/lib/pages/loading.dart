@@ -16,6 +16,7 @@ class _LoadingState extends State<Loading> {
       'location' : wt.location,
       'flag': wt.flag,
       'time': wt.time,
+      'isDaytime' : wt.isDayTime,
     });
   }
 
